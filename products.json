@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Lipstick",
+            "price": 19.99,
+            "description": "A rich, long-lasting lipstick.",
+            "image": "images/lipstick.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Foundation",
+            "price": 29.99,
+            "description": "A smooth foundation for a flawless look.",
+            "image": "images/foundation.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mascara",
+            "price": 15.99,
+            "description": "A volumizing mascara for dramatic lashes.",
+            "image": "images/masacara.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Blush",
+            "price": 12.99,
+            "description": "A blush that gives a natural glow.",
+            "image": "images/blush.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Eyeliner",
+            "price": 9.99,
+            "description": "A waterproof eyeliner for bold eyes.",
+            "image": "images/eyeliner.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Nail Polish",
+            "price": 7.99,
+            "description": "A long-lasting nail polish.",
+            "image": "images/nailpolish.jpg"
+        }
+    ]
+}
